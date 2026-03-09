@@ -16,7 +16,7 @@
 - MRR if all convert: $1,109.63
 
 ### Slide 12 — Google Ads + Meta Ads
-- Daily ad spend: $40/day
+- Daily ad spend: $30/day
 
 ### Slide 15 — Use of $100K
 - Allocation amounts for each category:
