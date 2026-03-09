@@ -2,7 +2,7 @@
 
 Interactive pitch deck for MediSync Labs. Deployed for easy sharing with investors and partners.
 
-**Live:** [Deploy to Vercel for your link]
+**Live:** Deploy to Vercel (see below) for a shareable link.
 
 ## How to view
 
